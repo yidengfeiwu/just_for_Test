@@ -1,2 +1,6 @@
 abcdefg
+<<<<<<< HEAD
 ABCmmEFG
+=======
+ABCDEFG
+>>>>>>> dev1
